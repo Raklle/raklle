@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">2nd Year Student at AGH University of Science and Technology</h3>
+<h3 align="center">3nd Year Student at AGH University of Science and Technology</h3>
 
 
 
